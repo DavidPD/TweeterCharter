@@ -1,0 +1,13 @@
+{
+  "author": "David Dovel <davey5555@gmail.com>",
+  "name": "TweeterCharter",
+  "description": "Creates a simple chart from a user's tweets",
+  "devDependencies": {
+    "grunt-contrib-coffee": "^0.10.1",
+    "grunt": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}
