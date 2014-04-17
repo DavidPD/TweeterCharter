@@ -1,0 +1,874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"particles"
+			],
+			[
+				"ps",
+				"pStep"
+			],
+			[
+				"front",
+				"frontParticles"
+			],
+			[
+				"emit",
+				"emitFrontNext"
+			],
+			[
+				"del",
+				"delta"
+			],
+			[
+				"tr",
+				"trueYVel"
+			],
+			[
+				"tru",
+				"trueXVel"
+			],
+			[
+				"x",
+				"xHeight"
+			],
+			[
+				"dea",
+				"deadness"
+			],
+			[
+				"li",
+				"lifetime"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"c",
+				"ctx"
+			],
+			[
+				"parti",
+				"particles"
+			],
+			[
+				"current",
+				"currentSlide"
+			],
+			[
+				"paren",
+				"parentId"
+			],
+			[
+				"deind",
+				"deindent"
+			],
+			[
+				"Liste",
+				"ListItemSchema"
+			],
+			[
+				"List",
+				"ListItemSchema"
+			],
+			[
+				"Listitem",
+				"ListItemSchema"
+			],
+			[
+				"newp",
+				"newParent"
+			],
+			[
+				"Listi",
+				"ListItem"
+			],
+			[
+				"listit",
+				"ListItem"
+			],
+			[
+				"parent",
+				"parent"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"populate",
+				"populateChildren"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"listitem",
+				"ListItemSchema"
+			],
+			[
+				"LIst",
+				"ListItemSchema"
+			],
+			[
+				"inser",
+				"insertIntoSibling"
+			],
+			[
+				"sav",
+				"saving"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"listi",
+				"listItem"
+			],
+			[
+				"serv",
+				"serverItem"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"list",
+				"listId"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"root",
+				"rootList"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"socket",
+				"socketLists"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"stroke",
+				"strokeWeight"
+			],
+			[
+				"pivo",
+				"pivot"
+			],
+			[
+				"pivot",
+				"pivots"
+			],
+			[
+				"colu",
+				"columnParser"
+			],
+			[
+				"cir",
+				"circle"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"maxCountries"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"scroll",
+				"scrollHeight"
+			],
+			[
+				"socke",
+				"socket"
+			],
+			[
+				"strin",
+				"stringArray"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"update",
+				"updatechat"
+			],
+			[
+				"username",
+				"usernames"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"forma",
+				"formatted"
+			],
+			[
+				"soce",
+				"sockets"
+			],
+			[
+				"soc",
+				"socket"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitstatus",
+				"GitStatus: Changed files"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: GUI.Button(position,content,style)"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gitb",
+				"Git: Change Branch"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"emmet",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitad",
+				"Git: Quick Add"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"aad",
+				"Package Control: Add Channel"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"qc",
+				"Git: Quick Commit"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"select",
+				"Rot13 Selection"
+			],
+			[
+				"git:",
+				"Git: Gitk"
+			],
+			[
+				"term",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"gitp",
+				"Git: Pull"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"git: add",
+				"Git: Add..."
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"help",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/david/Sites/AutomatticContacts/coffeecontact.coffee",
+		"/Users/david/Developer/Unity/fried-rice/.git/MERGE_MSG",
+		"/Users/david/Developer/Unity/fried-rice/.gitignore",
+		"/Users/david/.gitignore_global",
+		"/Users/david/.gitignore",
+		"/Users/david/Documents/Outlook contact headers.csv",
+		"/Users/david/Sites/AutomatticContacts/.git/COMMIT_EDITMSG",
+		"/Users/david/Blogging/casperanalytical/default.hbs",
+		"/Users/david/Downloads/dawnhack___nethack_3_4_3___unnethack_5_1_0_by_dragondeplatino-d6vv0mx/README.txt",
+		"/Users/david/Downloads/README",
+		"/Users/david/Desktop/casperanalytical/index.hbs",
+		"/Users/david/Developer/Game Dev/CowardlyRogue/.gitignore",
+		"/Users/david/Blogging/Cowardly Coder/Hello World.md",
+		"/Users/david/.gitconfig",
+		"/Users/david/.z",
+		"/Users/david/Developer/Game Resources/Attribution.md",
+		"/Users/david/untitled.cs",
+		"/Users/david/Developer/Unity/.gitignore",
+		"/Users/david/Sites/Ignite-Lincoln/js/ParticleSystem.js",
+		"/Users/david/Sites/Ignite-Lincoln/js/ParticleSystem-ck.js",
+		"/Users/david/Sites/Ignite-Lincoln/js/index.js",
+		"/Users/david/Sites/Ignite-Lincoln/js/index-ck.js",
+		"/Users/david/Sites/Ignite-Lincoln/js/convenience.js",
+		"/Users/david/Sites/Ignite-Lincoln/js/_text.js",
+		"/Users/david/Sites/Ignite-Lincoln/js/_events.js",
+		"/Users/david/Sites/Ignite-Lincoln/css/style.css",
+		"/Users/david/Sites/Ignite-Lincoln/css/style.scss",
+		"/Users/david/Sites/Ignite-Lincoln/.gitignore",
+		"/Users/david/Sites/Ignite-Lincoln/config.rb",
+		"/Users/david/Sites/Ignite-Lincoln/index.html",
+		"/Users/david/Sites/Ignite-Lincoln/README.md",
+		"/Users/david/Sites/Ignite-Lincoln/cache.manifest",
+		"/Users/david/Sites/.htaccess",
+		"/Users/david/Developer/Ignite-Lincoln/js/ParticleSystem.js",
+		"/Users/david/Developer/Ignite-Lincoln/js/index.js",
+		"/Users/david/Developer/Ignite-Lincoln/index.html",
+		"/Users/david/Library/Application Support/minecraft/config/Aether II.cfg",
+		"/Users/david/Documents/App Reviews/Lists/Taskable.md",
+		"/Users/david/Documents/App Reviews/Lists/do.one.md",
+		"/Users/david/Desktop/LMC/.git/COMMIT_EDITMSG",
+		"/etc/rm.local",
+		"/Users/david/Desktop/index.html",
+		"/Users/david/Games/Minecraft/AtLauncher/Packs/SolitaryCraft/.minecraft/config/Thaumcraft.cfg",
+		"/Users/david/Developer/NMotion/UPCNumberSearch/README.md",
+		"/Users/david/Sites/dbpull/index.php",
+		"/Users/david/Developer/NMotion/Nate Database pull/dbPull.php",
+		"/Users/david/Developer/NMotion/Nate Database pull/index.php",
+		"/Users/david/Developer/NMotion/Nate Database pull/index.html",
+		"/Users/david/Documents/App Reviews/News/Reeder.md",
+		"/Users/david/Documents/App Reviews/Lists/Reminders.md",
+		"/Users/david/Documents/App Reviews/News/Mobi Reader.md",
+		"/Users/david/Documents/App Reviews/Lists/Read.it.md",
+		"/Users/david/Documents/App Reviews/Lists/R-Block.md",
+		"/Users/david/Downloads/toaster.cfg",
+		"/Users/david/Developer/FrogattoDev.app/Contents/Resources/master-config.cfg",
+		"/Users/david/Sites/CiderList/public/js/core/socketClient.js",
+		"/Users/david/Sites/CiderList/Models/UserModel.js",
+		"/Users/david/Sites/CiderList/Models/ListModel.js",
+		"/Users/david/Sites/CiderList/socket/socket.js",
+		"/Users/david/Sites/CiderList/package.json",
+		"/Users/david/Sites/CiderList/socket/socketUserInfo.js",
+		"/Users/david/Sites/CiderList/socket/socketAuth.js",
+		"/Users/david/Sites/CiderList/socket/socketLists.js",
+		"/Users/david/Sites/CiderList/public/js/listapp.js",
+		"/Users/david/Documents/Ideas & Research/Magic/Magic Revised.yml",
+		"/Users/david/Sites/CiderList/server.js",
+		"/Users/david/Sites/CiderList/public/js/listManagement/events.js",
+		"/Users/david/Sites/Sublime Projects/CiderList.sublime-project",
+		"/Users/david/Sites/CiderList/public/js/listManagement/processing.js",
+		"/Users/david/Dropbox/Sublime Text/User/Javascript/ConsoleLog.sublime-snippet",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/david/Sites/CiderList/public/js/listManagement/listView.js",
+		"/Users/david/Sites/CiderList/public/kit/templates/header.kit",
+		"/Users/david/Sites/CiderList/Models/MongoSession.js",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/david/Public/nsbc/public/js/main.js",
+		"/Users/david/Desktop/list/server.js",
+		"/Users/david/Dropbox/Sublime Text/User/js-createAndLog.sublime-snippet",
+		"/Users/david/Public/website/js/main.js",
+		"/Users/david/Public/website/index.html",
+		"/Users/david/Public/website/sass/style.scss",
+		"/Users/david/Desktop/list/package.json",
+		"/Users/david/Dropbox/Sublime Text/User/underlineasterisk.sublime-snippet",
+		"/Users/david/Desktop/Treehouse/Building a Responsive Website/css/grid.css",
+		"/Users/david/Desktop/Treehouse/Building a Responsive Website/index.html",
+		"/Users/david/Desktop/Treehouse/Building a Responsive Website/css/style.css",
+		"/Users/david/Desktop/Treehouse/Building a Simple Website/index.html",
+		"/Users/david/Desktop/Treehouse/Building a Simple Website/css/style.css",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/david/Downloads/websitewaters-island01-stage03/index.html",
+		"/Users/david/Desktop/Treehouse/Building a Simple Website/css/grid.css",
+		"/Users/david/Desktop/Treehouse/Building a Simple Website/index-complete.html",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Cobol.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/david/Dropbox/COBOL/CBL07.cbl",
+		"/Users/david/Desktop/Mongoose Importing/server",
+		"/Users/david/Desktop/Mongoose Importing/package.json",
+		"/Users/david/nodeTests/hello-socket/index.html",
+		"/Users/david/Dropbox/COBOL/CBL06.cobol",
+		"/Users/david/nodeTests/hello-socket/search.html",
+		"/Users/david/nodeTests/hello-socket/app.js",
+		"/Users/david/nodeTests/hello-socket/package.json",
+		"/Users/david/nodeTests/hello-socket/searchServer.js",
+		"/Users/david/nodeTests/hello-express/app.js",
+		"/Users/david/nodeTests/Tut6.js",
+		"/Users/david/nodeTests/tut3.js",
+		"/Users/david/nodeTests/testFile.txt",
+		"/Users/david/nodeTests/test.js",
+		"/Users/david/nodeTests/chat.js",
+		"/Users/david/nodeTests/tcp-server.js",
+		"/Users/david/nodeTests/test2.js",
+		"/Users/david/nodeTests/test1.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-node_modules/,-*-ck.js",
+			"-node_modules/,-*-ck",
+			"-node_modules/",
+			"-node_modules",
+			"-node_modules/",
+			"-*node_modules/*",
+			"-*/node_modules/*",
+			"-*node_modules/*",
+			"-node_modules/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fr",
+			"this.particles",
+			"particlespers",
+			"particles[i]",
+			"this.particles",
+			"console",
+			"form",
+			"errz",
+			"ERROR",
+			"error",
+			"ERROR",
+			"error",
+			"ERROR",
+			"error",
+			"ERROR",
+			"error",
+			"relativeSibling",
+			"call",
+			"00000000000000000000000000000",
+			"0000000000000000000000000000",
+			"000000000000000000000000000",
+			"00000000000000000000000000",
+			"0000000000000000000000000",
+			"000000000000000000000000",
+			"00000000000000000000000",
+			"0000000000000000000000",
+			"000000000000000000000",
+			"00000000000000000000",
+			"0000000000000000000",
+			"000000000000000000",
+			"00000000000000000",
+			"0000000000000000",
+			"000000000000000",
+			"00000000000000",
+			"0000000000000",
+			"000000000000",
+			"00000000000",
+			"0000000000",
+			"000000000",
+			"00000000",
+			"0000000",
+			"000000",
+			"00000",
+			"0000",
+			"000",
+			"0000",
+			"000",
+			"recursionCount",
+			"findbyid",
+			"@note",
+			"-ck",
+			"item.name",
+			"html()",
+			"html",
+			"_id",
+			"sid",
+			"log",
+			"self.items[$(this).listId()]",
+			");	",
+			"show",
+			"hide",
+			",",
+			"userLogin",
+			"#userLogin",
+			"#userlogin",
+			"setSelection",
+			"lineWidth",
+			"rowcount",
+			"Connection",
+			"connection",
+			"Connection",
+			"connection",
+			"px",
+			"65px",
+			"font",
+			"ctrl+shift",
+			"ctrl+alt",
+			"; ",
+			"copy",
+			"		<",
+			">\n",
+			"Bacon",
+			"SQL",
+			"SQL\n\n",
+			"SQL",
+			"INCLUDE",
+			"space",
+			"indent",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"particles\nparticles",
+			"particles\nparticle",
+			"particles\nparticles"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 222.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 88.0
+	},
+	"project": "HudlProj.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"eve",
+				"public/js/listManagement/events.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/david/Desktop/template/public/js/CiderList.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
