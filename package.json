@@ -2,13 +2,14 @@
   "author": "David Dovel <davey5555@gmail.com>",
   "name": "TweeterCharter",
   "description": "Creates a simple chart from a user's tweets",
+  "dependencies": {
+    "express": "3.5.x",
+    "coffee-script": "^1.7.1",
+    "connect-coffee-script": "^0.1.6"
+  },
   "devDependencies": {
     "grunt-contrib-coffee": "^0.10.1",
-    "grunt": "^0.4.4",
-    "grunt-contrib-watch": "^0.6.1"
-  },
-  "dependencies": {
-    "express": "^4.0.0",
-    "coffee-script": "^1.7.1"
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt": "^0.4.4"
   }
 }
