@@ -6,10 +6,5 @@
     "express": "3.5.x",
     "coffee-script": "^1.7.1",
     "connect-coffee-script": "^0.1.6"
-  },
-  "devDependencies": {
-    "grunt-contrib-coffee": "^0.10.1",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt": "^0.4.4"
   }
 }
