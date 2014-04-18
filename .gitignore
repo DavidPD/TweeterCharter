@@ -1,1 +1,4 @@
 node_modules
+
+# prevent twitter credintials from being made public
+twitterconfig.json

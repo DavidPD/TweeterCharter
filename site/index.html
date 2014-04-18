@@ -13,7 +13,6 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <link rel="stylesheet" href="css/style.css">
-        <script src="/js/main.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -21,9 +20,16 @@
 <![endif]-->
 
         <!-- Add your site or application content here -->
-        <p>Hello world! Add your content here.</p>
+        
+		<label for="usernameField">Twitter Handle:</label>
+		<input type="text" id="usernameField">
+		<button type="button" id="searchButton">Search</button>
+
+		<canvas id="canvas" width="600" height="400"></canvas>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="/js/main.js"></script>
+
     </body>
 </html>

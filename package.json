@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "3.5.x",
     "coffee-script": "^1.7.1",
-    "connect-coffee-script": "^0.1.6"
+    "connect-coffee-script": "^0.1.6",
+    "twit": "^1.1.13"
   }
 }
