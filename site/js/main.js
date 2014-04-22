@@ -1,5 +1,9 @@
 $(function() {
   return ($('#searchButton')).on('click', function() {
-    window.location.href = "/?user=" + (($('#usernameField')).val());
+    return $.get("/tweets", {
+      user: ($('#usernameField')).val()
+    }, function(data) {
+      return console.log(data);
+    });
   });
 });

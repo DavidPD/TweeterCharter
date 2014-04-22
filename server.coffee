@@ -13,7 +13,7 @@ app = express()
 
 app.get '/tweets', (req, res) -> 
 	twitter.get 'statuses/user_timeline', 
-		{screen_name: req.query.user, trim_user: true, count: 200},
+		{screen_name: req.query.user, trim_user: true, count: 200}, 
 		(err, data) ->
 			if err then res.send err
 			else 
