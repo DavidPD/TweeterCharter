@@ -1,8 +1,8 @@
 $(function() {
   return ($('#searchButton')).on('click', function() {
-    return $.get("/tweets", {
+    return ($.get("/tweetCount", {
       user: ($('#usernameField')).val()
-    }, function(data) {
+    })).done(function(data) {
       return console.log(data);
     });
   });

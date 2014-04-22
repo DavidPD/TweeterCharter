@@ -11,24 +11,33 @@ twitter = new Twit (JSON.parse twitterConfig)
 
 app = express()
 
-app.get '/tweets', (req, res) -> 
+app.get '/tweetCount', (req, res) -> 
 	twitter.get 'statuses/user_timeline', 
 		{screen_name: req.query.user, trim_user: true, count: 200}, 
 		(err, data) ->
 			if err then res.send err
 			else 
-				days = {}
+				numDays = 7
+				# Create a zero-filled array.
+				# Each value in the array represents the count of tweets for that many days ago
+				days = [0..numDays - 1].map (i) -> {day: ((moment().subtract 'days', i).format 'MM/DD/YYYY'), count:0} 
 
-				# for every day last week...
-				for day in ([0..6].map (i) -> (moment().subtract 'd', i).format 'MM/DD/YYYY')
-					days[day] = 0
+				# for every day last week, initialize the tweet count to 0;
+				# for day in ([0..6].map (i) -> (moment().subtract 'd', i).format 'MM/DD/YYYY')
+				# 	days[day] = 0
 
 				# get the date of every tweet the user posted
 				dates = data.map (t) -> (moment new Date t.created_at).format 'MM/DD/YYYY'
 
+				dateDiffs = data.map (t) -> Math.abs ((moment new Date t.created_at).diff moment(), 'days')
+
 				# count the number of dates for each day in the past week.
-				for date in dates
-					if days[date]? then days[date]++
+				# for date in dates
+				# 	if days[date]? then days[date]++
+
+				for diff in dateDiffs
+					console.log diff
+					if days[diff]? then days[diff].count++
 
 				# send the result back as json.
 				res.send days

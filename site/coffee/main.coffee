@@ -1,4 +1,7 @@
+chart = null
+
 $ -> # page loaded
 	($ '#searchButton').on 'click', ->
-		($.get "/tweets", {user: ($ '#usernameField').val()}).done (data) ->
-			
+		($.get "/tweetCount", {user: ($ '#usernameField').val()}).done (data) ->
+			chart = new Chart $ '#canvas', data
+			chart.draw()
